@@ -36,8 +36,7 @@
  	 -   Creates a linguistically annotated Coptic corpus
 
 ## Existing Coptic OCR
- -   Tesseract (developed by Ray Smith
- - for Coptic, trained by Moheb Mekhaiel (http://www.moheb.de/ocr.html)
+ -   Tesseract (developed by Ray Smith), for Coptic, trained by Moheb Mekhaiel (http://www.moheb.de/ocr.html)
 
 ## New method: Ocropy
  -   Python-based OCR package 
