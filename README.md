@@ -1,9 +1,13 @@
 # CopticOCR
 
 ## Members
+### Göttingen
 - So Miyagawa
 - Kirill Bulert
 - Marco Büchler
+
+### Berlin
+- Eliese-Sophia Lincke
 
 ## Coptic
 - The final stage of the Ancient Egyptian language used in Egypt from ca. the third century 
