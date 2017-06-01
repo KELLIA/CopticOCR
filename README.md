@@ -1,5 +1,5 @@
 # CopticOCR
-
+![logo1](img/image01.jpg "logo") ![logo2](img/image02.png "logo") ![logo4](img/image04.jpg "logo") ![logo5](img/image05.jpg "logo")
 ## Developers
 ### Göttingen
 - So Miyagawa
