@@ -1,6 +1,6 @@
 # CopticOCR
 
-## Members
+## Developers
 ### Göttingen
 - So Miyagawa
 - Kirill Bulert
