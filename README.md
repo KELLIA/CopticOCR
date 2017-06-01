@@ -40,6 +40,6 @@
  -   Using recurrent neural networks 
  -   Originally developed by Thomas Breuel 
  -   Available at https://github.com/tmbdev/ocropy 
- -   Trained for Coptic by our group
+ -   Trained for Coptic by our group and our collaborator Eliese-Sophia Lincke (Berlin)
 
 ![alt text](img/workflow.png "Workflow")
