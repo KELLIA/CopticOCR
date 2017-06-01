@@ -1,34 +1,33 @@
 # CopticOCR
-
-## Members
+![etrap](img/etrap_full.png "logo") ![kellia](img/kellia.png "logo") ![logo2](img/image02.png "logo") ![logo1](img/image01.jpg "logo") ![logo4](img/image04.jpg "logo") ![logo5](img/image05.jpg "logo")
+## Developers
+### Göttingen
 - So Miyagawa
 - Kirill Bulert
 - Marco Büchler
 
-### Coptic
+### Berlin
+- Eliese-Sophia Lincke
+
+## Coptic
 - The final stage of the Ancient Egyptian language used in Egypt from ca. the third century 
 - A new writing system based on the Greek alphabet and several letters from Demotic (a language stage and writing system used in Egypt from ~ 700 BCE)
 -  A language transmitted in several regional forms (dialects) with a large production of manuscripts in Sahidic Coptic, the dialect at the basis of our OCR work
 
-### Coptic alphabet
-
+## Coptic alphabet
 - Ca. 30 letters.
 - Several diacritics such as tremas, circumflexes, supralinear strokes etc. 
 - Several punctuation marks such as dots, commas, and colons  
 - Editorial marks in editions
 
-### Why is Coptic OCR needed?
+## Why is Coptic OCR needed?
 
 - OCR for Coptic is not well-developed.
 - Almost all the Coptic texts in past publications were not OCRed. 
  -   OCR for Coptic is needed by many DH projects in Coptic.
-
-
  -   There is a small amount of human power in Coptology compared with the large amount of unOCRed Coptic editions.
 
-Coptic DH projects (selected)
-
-
+## Coptic DH projects (selected)
  -   SFB 1136 (Göttingen) 
  	 -   Creates a text corpus of selected monastic works in Coptic 
  -   Digital Edition of the Coptic Old Testament (Göttingen) 
@@ -36,18 +35,14 @@ Coptic DH projects (selected)
  -   Coptic SCRIPTORIUM (Georgetown/Pacific) 
  	 -   Creates a linguistically annotated Coptic corpus
 
-Existing Coptic OCR
+## Existing Coptic OCR
+ -   Tesseract (developed by Ray Smith), for Coptic, trained by Moheb Mekhaiel (http://www.moheb.de/ocr.html)
 
-
- -   Tesseract (developed by Ray Smith)
-
- - for Coptic, trained by Moheb Mekhaiel (http://www.moheb.de/ocr.html)
-
-New method: Ocropy
-
-
+## New method: Ocropy
  -   Python-based OCR package 
  -   Using recurrent neural networks 
  -   Originally developed by Thomas Breuel 
  -   Available at https://github.com/tmbdev/ocropy 
- -   Trained for Coptic by our group
+ -   Trained for Coptic by our group and our collaborator Eliese-Sophia Lincke (Berlin)
+
+![alt text](img/workflow.png "Workflow")

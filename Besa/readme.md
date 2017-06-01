@@ -6,3 +6,6 @@ The number coptic_model-*00001000*.pyrnn.gz represents the amount iterations, in
 
 ## All models
 All models can be found at: http://www.etrap.eu/data/models.tar.gz
+
+Trained for
+Kühn, K.H. ed., 1956. *Letters and sermons of Besa*. Impr. orientaliste L. Durbecq.
