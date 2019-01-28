@@ -1,4 +1,4 @@
-# CopticOCR (CC-BY-SA 4.0 License)
+# CopticOCR ([CC-BY-SA 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/deed.en))
 ![etrap](img/etrap_full.png "logo") ![kellia](img/kellia.png "logo") ![logo2](img/image02.png "logo") ![logo1](img/image01.jpg "logo") ![logo4](img/image04.jpg "logo") ![logo5](img/image05.jpg "logo")
 ## Developers
 ### Göttingen
